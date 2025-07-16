@@ -1,9 +1,9 @@
-import { styled } from "@/styles";
+import { styled } from "../styles";
 
 const Button = styled('button', {
-  backgroundColor: '$rockeseat',
+  backgroundColor: '$green300',
   borderRadius: '4px',
-  boder: '0',
+  border: '0',
   padding: '4px 8px',
 
   span : {
